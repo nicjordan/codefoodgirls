@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="styles.css">
+<html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="#" class="fa fa-facebook"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" class="fa fa-twitter"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" class="fa fa-instagram"></a>
+<header>CODE FOOD GIRLS</header>
+<h1>FROM AROUND THE WORLD</h1>
+<a href="Second page.html">SPAGHETTI CARBONARA</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="Third page.html">AMERICAN BURGER</a>
+<div class="image">
+    <img src="FOOD.webp" alt="shopping" style="width: 1430px;" />
+  </div>
+ <head>
+    <meta charset="UTF-8">
+    <form action="action_page.php">
+      <div class="container" style="background-color: white;">
+        <input type="text" placeholder="Name" name="name" required>
+        <input type="text" placeholder="Email address" name="mail" required>
+        <input type="submit" value="Subscribe">
+      </div>
+    </form>
+</div>
+</main> </html>
